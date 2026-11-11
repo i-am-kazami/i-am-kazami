@@ -1,16 +1,27 @@
-## Hi there 👋
+```json
+{
+  "sub": "jimmy",
+  "preferred_username": "kazami",
+  "role": "identity engineer",
+  "scope": "humans services agents",
+  "platforms": ["okta", "sailpoint", "cyberark", "entra", "clear"],
+  "iss": "healthcare, education, energy",
+  "aud": "anyone securing identity"
+}
+```
+Hi I'm Jimmy,
 
-<!--
-**i-am-kazami/i-am-kazami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and secure identity: lifecycle automation, privileged access, SSO, and now authorization for AI agents.
 
-Here are some ideas to get you started:
+### ▸ stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`python` `java/beanshell` `terraform` · `okta` `sailpoint iiq` `cyberark` `entra id` · `oauth 2.1` `oidc` `saml` `scim` `aws` `azure`
+
+### ▸ signed by
+
+CISSP · SailPoint IdentityIQ Engineer · CyberArk Defender · M.S. Cybersecurity
+
+### ▸ elsewhere
+
+[iamkazami.com](https://iamkazami.com) · [linkedin](https://www.linkedin.com/in/jimmyduong00/)
+
